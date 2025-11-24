@@ -6,7 +6,6 @@ A Spring Boot application for managing jackpot contributions and rewards in bett
 
 - **Java 17+** (tested with Java 17)
 - **Maven 3.6+**
-- **Docker** (optional, only if using real Kafka)
 
 ## Quick Start
 
